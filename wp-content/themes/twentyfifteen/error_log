@@ -1,0 +1,2 @@
+[28-Oct-2017 12:42:54 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/themes/twentyfifteen/404.php on line 10
+[01-Dec-2017 09:26:48 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/themes/twentyfifteen/functions.php on line 41

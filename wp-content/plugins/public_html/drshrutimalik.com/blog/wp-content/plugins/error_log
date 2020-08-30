@@ -1,0 +1,9 @@
+[28-Jan-2018 10:56:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/plugins/hello.php on line 60
+[19-Jun-2020 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/plugins/hello.php on line 60
+[19-Jun-2020 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/plugins/hello.php on line 60

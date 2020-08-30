@@ -1,0 +1,2 @@
+[26-Feb-2020 04:38:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/themes/twentysixteen/index.php on line 17
+[26-Feb-2020 04:38:44 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/innovhosting/public_html/drrenumalik.com/blog/wp-content/themes/twentysixteen/index.php on line 17
